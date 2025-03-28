@@ -13,7 +13,6 @@
 
   <!-- 第四行：每周贡献和连续提交 -->
   <img height="180em" width="390" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ebotian&theme=radical&utcOffset=8" />
-  <img height="180em" width="390" src="https://streak-stats.demolab.com/?user=Ebotian&theme=radical&locale=zh&hide_border=true&background=141321&fire=DD2727" />
 
   <!-- 第五行：状态和活动图 -->
   <img height="180em" width="390" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ebotian&theme=radical" />
