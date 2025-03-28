@@ -1,25 +1,23 @@
-## 📊 我爱图表♥️
+## 📊 我爱图表
 
-<!-- GitHub 数据统计 -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ebotian&show_icons=true&theme=radical&locale=cn&include_all_commits=true&count_private=true" />
+  <!-- 第一行：主要统计和语言 -->
+  <img height="170em" width="420" src="https://github-readme-stats.vercel.app/api?username=Ebotian&show_icons=true&theme=radical&locale=cn&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="170em" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ebotian&layout=compact&theme=radical&locale=cn&hide=jupyter%20notebook&hide_border=true" />
 
-  <!-- 语言使用统计 (移除 Jupyter Notebook) -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ebotian&layout=compact&theme=radical&locale=cn&hide=jupyter%20notebook" />
+  <!-- 第二行：成就奖杯 (单独一行展示更好) -->
+  <img width="780" src="https://github-profile-trophy.vercel.app/?username=Ebotian&theme=radical&row=1&no-frame=true&margin-w=15" />
+
+  <!-- 第三行：贡献热力图 (全宽) -->
+  <img width="780" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ebotian&theme=radical" />
+
+  <!-- 第四行：每周贡献和连续提交 -->
+  <img height="180em" width="390" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ebotian&theme=radical&utcOffset=8" />
+  <img height="180em" width="390" src="https://streak-stats.demolab.com/?user=Ebotian&theme=radical&locale=zh&hide_border=true&background=141321&fire=DD2727" />
+
+  <!-- 第五行：状态和活动图 -->
+  <img height="180em" width="390" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ebotian&theme=radical" />
+  <img height="180em" width="390" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ebotian&theme=radical" />
 </div>
 
-<!-- GitHub 成就奖杯 -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ebotian&theme=radical&row=1" />
-</div>
-
-<!-- 贡献热力图 -->
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ebotian&theme=radical" />
-</div>
-
-<!-- 每周贡献统计 -->
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ebotian&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ebotian&theme=radical" />
-</div>
+> 💡 我坚持小步快跑的开发理念，保持日常均衡提交，避免单次大量提交导致的热力图亮度不均。质量与持续性同样重要！
