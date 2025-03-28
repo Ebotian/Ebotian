@@ -15,6 +15,5 @@
   <img height="180em" width="390" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ebotian&theme=radical&utcOffset=8" />
 
   <!-- 第五行：状态和活动图 -->
-  <img height="180em" width="390" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ebotian&theme=radical" />
   <img height="180em" width="390" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ebotian&theme=radical" />
 </div>
