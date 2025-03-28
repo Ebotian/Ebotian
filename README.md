@@ -1,4 +1,4 @@
-## 📊 我爱图表
+## feat.初音ミク
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; max-width: 800px; margin: 0 auto;">
   <!-- 第二行：成就奖杯 (居中全宽) -->
