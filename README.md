@@ -18,5 +18,3 @@
   <img height="180em" width="390" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ebotian&theme=radical" />
   <img height="180em" width="390" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ebotian&theme=radical" />
 </div>
-
-> 💡 我坚持小步快跑的开发理念，保持日常均衡提交，避免单次大量提交导致的热力图亮度不均。质量与持续性同样重要！
