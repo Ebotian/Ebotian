@@ -1,4 +1,4 @@
-## 📊 我的编码足迹
+## 📊 我爱图表♥️
 
 <!-- GitHub 数据统计 -->
 <div align="center">
@@ -23,15 +23,3 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ebotian&theme=radical" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ebotian&theme=radical" />
 </div>
-
-<!-- 连续提交记录 (更新链接) -->
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ebotian&theme=radical&locale=zh" alt="连续提交记录" />
-</div>
-
-<!-- 活动贡献图 -->
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Ebotian&theme=radical" alt="贡献活动图" />
-</div>
-
-> 💡 我坚持小步快跑的开发理念，保持日常均衡提交，避免单次大量提交导致的热力图亮度不均。质量与持续性同样重要！
