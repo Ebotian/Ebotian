@@ -9,7 +9,7 @@
 
   <!-- 第四行：每周贡献和语言分布 (左右对称) -->
   <div style="display: flex; justify-content: space-between; width: 100%;">
-    <img style="width: 49.5%;" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ebotian&theme=synthwave&utcOffset=8" />
-    <img style="width: 49.5%;" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ebotian&theme=synthwave" />
+    <img style="width: 49.5%;" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ebotian&theme=omni&utcOffset=8" />
+    <img style="width: 49.5%;" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ebotian&theme=omni" />
   </div>
 </div>
