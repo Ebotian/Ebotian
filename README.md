@@ -4,7 +4,7 @@
 
   <!-- 第三行：贡献热力图 (居中全宽) -->
   <div style="width: 100%; margin-bottom: 10px;">
-    <img style="width: 100%;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ebotian&theme=synthwave" />
+    <img style="width: 100%;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ebotian&theme=omni" />
   </div>
 
   <!-- 第四行：每周贡献和语言分布 (左右对称) -->
